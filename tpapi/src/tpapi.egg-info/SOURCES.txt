@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/oauth/__init__.py
+src/oauth/oauth.py
+src/tpapi.egg-info/PKG-INFO
+src/tpapi.egg-info/SOURCES.txt
+src/tpapi.egg-info/dependency_links.txt
+src/tpapi.egg-info/requires.txt
+src/tpapi.egg-info/top_level.txt

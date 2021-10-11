@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: tpapi
+Version: 0.1
+Summary: A Python wrapper for the TierPoint API.
+Home-page: https://github.com/lukeknowles/tpapi-wrappers/
+Author: Luke Knowles
+Author-email: luke.knowles@tierpoint.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
