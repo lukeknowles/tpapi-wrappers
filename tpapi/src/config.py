@@ -1,7 +1,7 @@
 urls = {
     "base": "https://api.tierpoint.com/",
     "oauth": {
-        "base": "oauth/",
-        "token": "token/"
+        "base": "https://api.tierpoint.com/oauth/",
+        "token": "https://api.tierpoint.com/oauth/token/"
     }
 }
