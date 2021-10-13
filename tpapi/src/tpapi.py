@@ -1,6 +1,5 @@
 import requests
 import base64
-import config
 import time
 from enum import Enum
 
@@ -18,7 +17,7 @@ class TPAPI():
                 "token": "oauth/token/"
             }
         }
-        
+
         self.oauth = OAuth(self)
 
     def isTokenExpired():
