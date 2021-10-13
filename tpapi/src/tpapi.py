@@ -21,7 +21,7 @@ class TPAPI():
         self.oauth = OAuth(self)
 
     def isTokenExpired():
-        return(int(time.time()) > self.token["expiresAt"])
+        return(int(time.time()) > self.auth["expiresAt"])
 
 class OAuth:
     def __init__(self, obj):
